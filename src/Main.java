@@ -27,7 +27,7 @@ public class Main {
         // Задание 4 //
         /* public class Application {
            public static void main(String[] args) { */
-                int a = 3;
+        /*   int a = 3;
                 int a = 10;
                 int b = 6;
                 int b = 12;
@@ -36,8 +36,13 @@ public class Main {
                 int sum = 3 + a + b;
                 int sum = 4 + a + b;
 
-                System.out.println("sum = " + sum);
+                System.out.println("sum = " + sum); */
            // }
        // }
+        // В этом задании у меня конфликтуют имена переменных,
+        // т.к. я в предыдущих заданиях давал идентичные имена.
+        // Я закомментировал public class и public static. Остальное комментирование - чтобы не было конфликта
+
+
     }
 }
